@@ -1,0 +1,66 @@
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.deps.json
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.runtimeconfig.json
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.runtimeconfig.dev.json
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.dll
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.pdb
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.Views.dll
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.Views.pdb
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.csproj.CoreCompileInputs.cache
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorAssemblyInfo.cache
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorAssemblyInfo.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.AssemblyInfoInputs.cache
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.AssemblyInfo.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.TagHelpers.input.cache
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.TagHelpers.output.cache
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorCoreGenerate.cache
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorTargetAssemblyInfo.cache
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorTargetAssemblyInfo.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.Views.pdb
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.dll
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.pdb
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.csproj.CopyComplete
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Cars\ListCars.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\AllCars.g.cshtml.cs
+C:\Users\Novak\Source\Repos\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\ShopCart\Index.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.deps.json
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.runtimeconfig.json
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.runtimeconfig.dev.json
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.dll
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.pdb
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.Views.dll
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\bin\Debug\netcoreapp2.2\ShopCar.Views.pdb
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.csproj.CoreCompileInputs.cache
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorAssemblyInfo.cache
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorAssemblyInfo.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.AssemblyInfoInputs.cache
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.AssemblyInfo.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.TagHelpers.input.cache
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.TagHelpers.output.cache
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorCoreGenerate.cache
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Cars\ListCars.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\AllCars.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\ShopCart\Index.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorTargetAssemblyInfo.cache
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.RazorTargetAssemblyInfo.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.Views.pdb
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.dll
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.pdb
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\ShopCar.csproj.CopyComplete
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Novak\Desktop\HTML LESSONS\MVC(CORE)\ShopCar\ShopCar\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs

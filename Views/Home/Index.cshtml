@@ -1,0 +1,12 @@
+﻿<h1>Cars Availabel</h1>
+
+<div class="row mt-5 mb-2">
+    @{
+
+        foreach (Car car in Model.CarAvailabel)
+        {
+            @await Html.PartialAsync("AllCars", car)
+        }
+
+    }
+</div>
